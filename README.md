@@ -1,5 +1,7 @@
 # Go's web development skeleton
-simple web app
+simple web app based on https://mbvisti.medium.com/a-practical-approach-to-structuring-go-applications-7f77d7f9c189
+
+using tdd and clean architechture method
 
 go 1.15++
 
